@@ -1,2 +1,4 @@
-package com.example.bringjustice;public class Actions {
+package com.example.bringjustice;
+
+public class Actions {
 }

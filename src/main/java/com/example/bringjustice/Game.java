@@ -1,2 +1,4 @@
-package com.example.bringjustice;public class Game {
+package com.example.bringjustice;
+
+public class Game {
 }

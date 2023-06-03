@@ -1,2 +1,4 @@
-package com.example.bringjustice;public class Login {
+package com.example.bringjustice;
+
+public class Login {
 }
